@@ -81,6 +81,7 @@ Image Resource:
 Index:
 <br>
 Photo by <a href="https://unsplash.com/@ja_ma?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jacopo Maiarelli</a> on <a href="https://unsplash.com/photos/assorted-fruits-at-the-market--gOUx23DNks?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+<br>
 Fruits:
 <br>
 Photo by <a href="https://unsplash.com/@priscilladupreez?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Priscilla Du Preez 🇨🇦</a> on <a href="https://unsplash.com/photos/one-red-apple-CoqJGsFVJtM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
