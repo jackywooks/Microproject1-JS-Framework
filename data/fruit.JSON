@@ -1,38 +1,61 @@
 [
   {
     "Name": "Red Apple",
+
     "Color": "Red",
+
     "Size(cm)": 8,
+
     "Origin": "Canada"
   },
+
   {
     "Name": "Blueberry",
+
     "Color": "Blue",
+
     "Size(cm)": 1,
+
     "Origin": "United States"
   },
+
   {
-    "Name": "Yellow Banana",
+    "Name": "Banana",
+
     "Color": "Yellow",
+
     "Size(cm)": 15,
+
     "Origin": "Philippines"
   },
+
   {
     "Name": "Orange Carrot",
+
     "Color": "Orange",
+
     "Size(cm)": 20,
+
     "Origin": "Netherlands"
   },
+
   {
-    "Name": "Green Emerald",
+    "Name": "Kiwi",
+
     "Color": "Green",
+
     "Size(cm)": 2,
-    "Origin": "Zambia"
+
+    "Origin": "Kiwi"
   },
+
   {
-    "Name": "White Pearl",
-    "Color": "White",
+    "Name": "Grape",
+
+    "Color": "Purple",
+
     "Size(cm)": 0.8,
-    "Origin": "Australia"
+
+    "Origin": "Japan"
   }
 ]

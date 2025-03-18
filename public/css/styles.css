@@ -1,0 +1,21 @@
+.fruit-container {
+  display: flex;
+  border: 1px solid #ddd;
+  margin: 10px;
+  padding: 10px;
+}
+
+.fruit-image {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  margin-right: 20px;
+}
+
+.fruit-details {
+  flex-grow: 1;
+}
+
+.fruit-details p {
+  margin: 5px 0;
+}
