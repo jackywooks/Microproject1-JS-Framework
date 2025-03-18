@@ -51,15 +51,15 @@ The application will be available at `http://localhost:3000`
 <br>
 │ └── fruit.json # Fruit data storage
 <br>
-├── public/ # Static files directory
+└── public/ # Static files directory
 <br>
-│ ├── index.html
+  ├── index.html
 <br>
-│ ├── fruit.html
+  ├── fruit.html
 <br>
-│ ├── farm.html
+  ├── farm.html
 <br>
-│ └── api.html
+  └── api.html
 
 ## Available Routes
 - `/` - Home page
