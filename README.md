@@ -77,6 +77,7 @@ Returns a list of fruits with their properties:
 - Origin
 
 Image Resource:
+<br>
 Index:
 <br>
 Photo by <a href="https://unsplash.com/@ja_ma?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jacopo Maiarelli</a> on <a href="https://unsplash.com/photos/assorted-fruits-at-the-market--gOUx23DNks?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
